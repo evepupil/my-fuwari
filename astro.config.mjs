@@ -31,13 +31,14 @@ import vercel from "@astrojs/vercel";
 
 // https://astro.build/config
 export default defineConfig({
-      image: {
-    service: passthroughImageService()
-  },
+    image: {
+        service: passthroughImageService()
+    },
     site: "https://blog.2b2x.cn",
     base: "/",
     trailingSlash: "always",
     output: "static",
+    adapter: vercel(),
     redirects: {
       "/donate": "/sponsors",
       "/donate/": "/sponsors/"
