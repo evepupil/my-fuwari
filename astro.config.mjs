@@ -27,6 +27,7 @@ import { expressiveCodeConfig } from "./src/config.ts";
 // import { pluginLanguageBadge } from "./src/plugins/expressive-code/language-badge.ts";
 import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-copy-button.js";
 import { defineConfig, passthroughImageService } from 'astro/config';
+import vercel from "@astrojs/vercel";
 
 // https://astro.build/config
 export default defineConfig({

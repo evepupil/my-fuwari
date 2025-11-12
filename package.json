@@ -14,6 +14,7 @@
 		"sync-notion": "node scripts/sync-from-notion.js",
 		"sync-notion:new": "node scripts/sync-from-notion.js --mode=new-only",
 		"sync-notion:append": "node scripts/sync-from-notion.js --mode=append",
+		"sync-friends": "node scripts/sync-friends-from-notion.js",
 		"format": "biome format --write ./src",
 		"lint": "biome check --write ./src"
 	},
