@@ -52,6 +52,7 @@ jobs:
 
           # 添加 content 目录的所有更改
           git add src/content/
+          git add src/data/
 
           # 检查是否有更改
           if git diff --staged --quiet; then
