@@ -1,5 +1,10 @@
 {
   "friends": [
-    
+    {
+      "name": "evepupuil",
+      "avatar": "http://localhost:4321/friends/",
+      "description": "1",
+      "url": "http://localhost:4321/friends/"
+    }
   ]
 }
