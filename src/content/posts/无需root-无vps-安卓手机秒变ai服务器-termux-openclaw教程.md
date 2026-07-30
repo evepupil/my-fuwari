@@ -1,6 +1,6 @@
 ---
 title: '无需root+无VPS！安卓手机秒变AI服务器，Termux+OpenClaw教程'
-published: 2026-07-29T17:14:02.280Z
+published: 2026-07-30T17:25:07.188Z
 description: '谁能想到，我们每天揣在兜里的安卓手机，居然能跳出“通讯工具”的局限，变身一台能跑Gemini模型、连WhatsApp的AI自动化网关？不用花钱租VPS，不用冒险给手机root，甚至不用复杂的专业知识，只要一个Termux软件，就能轻松实现。'
 image: ''
 tags: []
