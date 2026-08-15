@@ -1,6 +1,6 @@
 ---
 title: 'Claude Code 开源平替：手把手搭建OpenCode开发环境实践指南'
-published: 2026-08-14T16:50:16.435Z
+published: 2026-08-15T16:21:36.711Z
 description: 'OpenCode 是一个完全免费、开源的 Claude Code 替代品。它不仅共享 Claude 的技能生态，更通过解除模型绑定，将AI编程能力从单一平台中解放出来。'
 image: ''
 tags: []
@@ -9,7 +9,7 @@ lang: ''
 ---
 
 
-![v2-3430f7b8e35cc55fa0acc6b28ce12170_1440w.jpg](https://pic3.zhimg.com/v2-3430f7b8e35cc55fa0acc6b28ce12170_1440w.jpg)
+![v2-3430f7b8e35cc55fa0acc6b28ce12170_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-1.jpg)
 
 
 OpenCode 是一个完全免费、开源的 Claude Code 替代品。它不仅共享 Claude 的技能生态，更通过解除模型绑定，将AI编程能力从单一平台中解放出来。
@@ -53,7 +53,7 @@ source ~/.zshrcopencode --version # 验证安装
 
 > 下载后安装启动
 
-![v2-255e19eb38b5162096a60bfce259292a_1440w.jpg](https://pic3.zhimg.com/v2-255e19eb38b5162096a60bfce259292a_1440w.jpg)
+![v2-255e19eb38b5162096a60bfce259292a_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-4.jpg)
 
 >  已设置好模型
 
@@ -69,13 +69,13 @@ source ~/.zshrcopencode --version # 验证安装
 # 插件市场搜索 opencode 安装
 
 
-![v2-3b91780a8192bbde2820eeb0ddd18a93_1440w.jpg](https://pic2.zhimg.com/v2-3b91780a8192bbde2820eeb0ddd18a93_1440w.jpg)
+![v2-3b91780a8192bbde2820eeb0ddd18a93_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-7.jpg)
 
 
 # vscode中使用
 
 
-![v2-0bc0f47a247169447d072a90bd2e7555_1440w.jpg](https://pic4.zhimg.com/v2-0bc0f47a247169447d072a90bd2e7555_1440w.jpg)
+![v2-0bc0f47a247169447d072a90bd2e7555_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-8.jpg)
 
 
 二、opencode使用指南
@@ -90,13 +90,13 @@ source ~/.zshrcopencode --version # 验证安装
 `opencode`
 
 
-![v2-efd7c80ef2be4deea6a973769ed5035f_1440w.jpg](https://pic2.zhimg.com/v2-efd7c80ef2be4deea6a973769ed5035f_1440w.jpg)
+![v2-efd7c80ef2be4deea6a973769ed5035f_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-9.jpg)
 
 
 #输入/ 出现命令提示
 
 
-![v2-cc67c5509e2aa98f19131ec0c394aca7_1440w.jpg](https://pic2.zhimg.com/v2-cc67c5509e2aa98f19131ec0c394aca7_1440w.jpg)
+![v2-cc67c5509e2aa98f19131ec0c394aca7_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-10.jpg)
 
 - `/init create/update AGENTS.md`
 - `/review review changes [commit|branch|pr], defaults to uncommitted`
@@ -277,7 +277,7 @@ opencode --model glm-4.7`
 三、oh-my-opencode插件安装配置
 
 
-![v2-7e59c8caa6febfc727c7433ce98a68cd_1440w.jpg](https://pic2.zhimg.com/v2-7e59c8caa6febfc727c7433ce98a68cd_1440w.jpg)
+![v2-7e59c8caa6febfc727c7433ce98a68cd_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-15.jpg)
 
 
 `https://github.com/code-yeongyu/oh-my-opencode`
@@ -321,7 +321,7 @@ bunx oh-my-opencode install --no-tui --claude=yes --copilot=no--gemini=n
 bunx oh-my-opencode install --no-tui --claude=no --copilot=no--gemini=no`
 
 
-![v2-21c98d2bb935064d137033f53edafd92_1440w.jpg](https://pica.zhimg.com/v2-21c98d2bb935064d137033f53edafd92_1440w.jpg)
+![v2-21c98d2bb935064d137033f53edafd92_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-16.jpg)
 
 
 ![v2-ab741be9bb6f32faac4ca74673ade4c8_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-17.jpg)
@@ -336,7 +336,7 @@ bunx oh-my-opencode install --no-tui --claude=no --copilot=no--gemini=no`
 `vi ~/.config/opencode/opencode.json`
 
 
-![v2-7592bfb9988953fb9db278925ed28840_1440w.jpg](https://pica.zhimg.com/v2-7592bfb9988953fb9db278925ed28840_1440w.jpg)
+![v2-7592bfb9988953fb9db278925ed28840_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-18.jpg)
 
 
 #oh-my-opencode配置
@@ -367,13 +367,13 @@ bunx oh-my-opencode install --no-tui --claude=no --copilot=no--gemini=no`
 # 安装前查看 /agents
 
 
-![v2-a6b21336cc7b0d74661e328607225acb_1440w.jpg](https://pic2.zhimg.com/v2-a6b21336cc7b0d74661e328607225acb_1440w.jpg)
+![v2-a6b21336cc7b0d74661e328607225acb_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-20.jpg)
 
 
 # 安装oom插件后 /agents 查看
 
 
-![v2-79c515ade99eb8136dd0e014b9a7b97c_1440w.jpg](https://pica.zhimg.com/v2-79c515ade99eb8136dd0e014b9a7b97c_1440w.jpg)
+![v2-79c515ade99eb8136dd0e014b9a7b97c_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-21.jpg)
 
 
 4，Oh My OpenCode使用测试
@@ -391,16 +391,16 @@ bunx oh-my-opencode install --no-tui --claude=no --copilot=no--gemini=no`
 `提示词：创建Vue项目设计一个用户仪表盘，并撰写技术方案。`
 
 
-![v2-d50d91a77d141b7407e619542b1a033f_1440w.jpg](https://pic2.zhimg.com/v2-d50d91a77d141b7407e619542b1a033f_1440w.jpg)
+![v2-d50d91a77d141b7407e619542b1a033f_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-23.jpg)
 
 
 # 生成结果 - 仪表盘、用户管理等
 
 
-![v2-28c325eda4c24ed736eb496f8a49ba08_1440w.jpg](https://pic3.zhimg.com/v2-28c325eda4c24ed736eb496f8a49ba08_1440w.jpg)
+![v2-28c325eda4c24ed736eb496f8a49ba08_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-24.jpg)
 
 
-![v2-0a910dcd960c25aff91137988472728b_1440w.jpg](https://pic4.zhimg.com/v2-0a910dcd960c25aff91137988472728b_1440w.jpg)
+![v2-0a910dcd960c25aff91137988472728b_1440w.jpg](../assets/images/claude-code-开源平替-手把手搭建opencode开发环境实践指南/image-25.jpg)
 
 
 四、SKILL 开发
